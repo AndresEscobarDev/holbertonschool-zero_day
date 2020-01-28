@@ -1,1 +1,1 @@
-__*Git Tasks modified*__
+__*Git Tasks*__
